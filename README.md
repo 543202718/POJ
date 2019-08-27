@@ -49,7 +49,7 @@ From [POJ刷题指南](https://blog.csdn.net/monkeyduck/article/details/9788669)
 ```
 OJ上的一些水题(可用来练手和增加自信) 
 (poj3299,poj2159,poj2739,poj1083,poj2262,poj1503,poj3006,poj2255,poj3094) 
-初期: 
+初级: 
 一.基本算法:  
      (1)枚举. (poj1753,poj2965) 
      (2)贪心(poj1328,poj2109,poj2586) 
@@ -201,6 +201,6 @@ OJ上的一些水题(可用来练手和增加自信)
       (2)可视图的建立(poj2966) 
       (3)点集最小圆覆盖.  
       (4)对踵点(poj2079) 
-      八.综合题. 
-      (poj3109,poj1478,poj1462,poj2729,poj2048,poj3336,poj3315,poj2148,poj1263)
+八.综合题. 
+    (poj3109,poj1478,poj1462,poj2729,poj2048,poj3336,poj3315,poj2148,poj1263)
 ```
